@@ -17,8 +17,8 @@ from email.mime.text import MIMEText
 # Gmail SMTP server settings
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-smtp_username = 'harshbro5080@gmail.com'
-smtp_password = "qotl urth dpmv tifp"
+smtp_username = 'Your gmail'
+smtp_password = "Your Password"
 
 # Email content
 to_email = input("enter the receiver email")
@@ -58,8 +58,8 @@ from email.mime.multipart import MIMEMultipart
 # Gmail SMTP server settings
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-smtp_username = 'harshbro5080@gmail.com'
-smtp_password = 'qotl urth dpmv tifp'
+smtp_username = 'Your gmail'
+smtp_password = 'Your Password'
 
 # Email content
 to_email = input("enter the recievers email address")
